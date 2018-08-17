@@ -1,0 +1,15 @@
+{
+    "name": "alex/alex",
+	 "require": {},
+
+	"autoload": {
+
+	"psr-4": {
+		"Engine\\": "engine",
+		"Cms\\": "cms",
+		"Admin\\": "admin",
+		"Engine\\DI\\": "engine/DI"
+
+		}
+	}
+}
