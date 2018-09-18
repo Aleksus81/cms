@@ -6,7 +6,7 @@ class ErrorController extends AdminController
         public function page404()
     
     {
-        echo '404 Page, а я контроллер из окружения admin<br>';
+        echo '404 Page admin<br>';
         
         
         

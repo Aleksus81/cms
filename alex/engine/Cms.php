@@ -26,7 +26,7 @@ public function __construct($di)
    /**
     * Run Cms
     */
-public function run()
+public function run() ## Запуск приложения
         
         {
 
@@ -34,7 +34,7 @@ public function run()
          try{
              
                         /*замена функции с mb_strtolower на strtolower*/
-                        require_once __DIR__ . '/../' . strtolower(ENV) . '/Route.php';
+                        require_once __DIR__ . '/../' . mb_strtolower(ENV) . '/Route.php';
                       
                         
              

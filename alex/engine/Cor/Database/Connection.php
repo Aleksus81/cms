@@ -3,6 +3,7 @@
 namespace Engine\Cor\Database;
 
 use \PDO;
+use Engine\Cor\Config\Config;
 
 class Connection{
 
@@ -15,15 +16,8 @@ class Connection{
     
     private function connect()
     {
-        $config = [
-            'host'     => 'localhost',
-            'db_name'  => 'test_pdo',
-            'username' => 'root',
-            'password' => 'ubuntu',
-            'charset'  => 'utf8'
+        $config = Config::file('database');
         
-        
-        ];
         
         $dsn = 'mysql:host='.$config['host'].';dbname='.$config['db_name'].';charset='.$config['charset'];
         
@@ -31,23 +25,32 @@ class Connection{
         
         return $this;
     }
-public function execute($sql)
+    
+public function execute($sql, $values = [])
     {
         $sth = $this->link->prepare($sql);
-        return $sth->execute();
+        return $sth->execute($values);
     }
     
-    public function query($sql)
+    public function query($sql, $values = [])
     {
         
         $sth = $this->link->prepare($sql);
-        $sth->execute();
-        $result = $exe->fetchAll(PDO::FETCH_ASSOC);
+        
+        $sth->execute($values);
+        
+        $result = $sth->fetchAll(PDO::FETCH_ASSOC);
+        
         if($result === false){
         return[];
         }
         
         return $result;
+    }
+    
+    public function lastInsertId()
+    {
+        return $this->link->lastInsertId();
     }
 }
 

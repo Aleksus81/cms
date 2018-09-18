@@ -1,15 +1,21 @@
 {
     "name": "alex/alex",
-	 "require": {},
+    "authors": [
+        {
+            "name": "Aleksus81",
+            "email": "l_pawlowich@yahoo.de"
+        }
+    ],
+    "require": {},
 
-	"autoload": {
+"autoload": {
 
-	"psr-4": {
-		"Engine\\": "engine",
-		"Cms\\": "cms",
-		"Admin\\": "admin",
-		"Engine\\DI\\": "engine/DI"
+"psr-4": {
+    "Engine\\": "engine",
+    "Cms\\": "cms",
+    "Admin\\": "admin",
+    "Engine\\DI\\": "engine/DI"
 
-		}
-	}
+    }
+}
 }
