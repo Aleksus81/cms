@@ -35,7 +35,7 @@ class Page
     }
     public function setTitle($title)
     {
-        $this->id = $title;
+        $this->title = $title;
     }
     
     public function getContent()
@@ -44,7 +44,7 @@ class Page
     }
     public function setContent($content)
     {
-        $this->id = $content;
+        $this->content = $content;
     }
     
     public function getDate()
@@ -53,7 +53,7 @@ class Page
     }
     public function setDate($date)
     {
-        $this->id = $date;
+        $this->date = $date;
     }
 }
 

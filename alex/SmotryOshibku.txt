@@ -5615,3 +5615,381 @@ Stack trace:
 #4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
 #5 {main}
   thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 09:20:14 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 09:20:14 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 09:26:08 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:17:50 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:18:30 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:19:40 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:19:41 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:20:07 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:21:20 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:21:26 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:21:27 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:22:16 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:22:18 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:36:12 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:36:31 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:37:54 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:38:06 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:38:17 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:38:33 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:38:35 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:38:36 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:39:09 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:39:12 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:39:25 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:40:15 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:40:16 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:40:24 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:41:41 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:42:23 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:42:24 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:51:54 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:52:03 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 12:52:16 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:04:47 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:04:52 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:05:26 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:05:54 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:06:04 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:14:03 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:14:23 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:14:26 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
+[18-Sep-2018 13:29:59 UTC] PHP Fatal error:  Uncaught Exception: Cannot load config from file, file <strong>/var/www/alex/cms/Config/database.php</strong> does not exist. in /var/www/alex/engine/Cor/Config/Config.php:38
+Stack trace:
+#0 /var/www/alex/engine/Cor/Database/Connection.php(19): Engine\Cor\Config\Config::file('database')
+#1 /var/www/alex/engine/Cor/Database/Connection.php(14): Engine\Cor\Database\Connection->connect()
+#2 /var/www/alex/engine/Sevice/Database/Provider.php(20): Engine\Cor\Database\Connection->__construct()
+#3 /var/www/alex/engine/bootstrap.php(15): Engine\Sevice\Database\Provider->init()
+#4 /var/www/alex/index.php(16): require_once('/var/www/alex/e...')
+#5 {main}
+  thrown in /var/www/alex/engine/Cor/Config/Config.php on line 38
